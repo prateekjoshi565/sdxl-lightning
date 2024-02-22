@@ -1,2 +1,1 @@
-# sdxl-lightning
-SDXL Lightning - Diffusers
+# SDXL Lightning - Diffusers
